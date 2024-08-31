@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "coffeeshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coffeeShop.js",
+  "scripts": {
+    "start": "node coffeeShop.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
